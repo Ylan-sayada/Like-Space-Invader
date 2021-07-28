@@ -1,0 +1,10 @@
+
+	COMMAND LIST:
+
+		ARROW KEY -> Press once and the player rotate , stay pressed and the player move
+
+		SPACE KEY -> fire missile according to player axis
+		
+		The game continue until the player doesn't touch a creature.
+		The creature move randomly and with random velocity. 
+			      
